@@ -1,0 +1,1 @@
+- Knows PHP, HTML, CSS, JS, Java, Python, MySQL.
